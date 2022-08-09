@@ -1,0 +1,10 @@
+@media screen and (max-width:768px) {
+    .dropdown-cart-container{
+         width: 100%;
+
+         /* flex */
+         display: flex;
+         justify-content: end;
+    }    
+}
+

@@ -13,10 +13,15 @@ module.exports = {
             fontFamily: {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
             },
-            colors:{
-                violet:colors.violet
+            colors:{               
+                violet:colors.violet,
+                purple:colors.purple
             }
         },  
+        fontSize: {
+            // Or with a default line-height as well
+            '4xl': '35px'
+        }        
     },
 
     variants: {
