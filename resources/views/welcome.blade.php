@@ -5,6 +5,9 @@
     @endpush
 
     <div class="container">   
+
+         <h1>Cambio realizado por J2DEV</h1>
+
         @foreach ($categories as $category)            
             <section class="mb-10">
                 {{-- categories --}}
